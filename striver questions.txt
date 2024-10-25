@@ -1,0 +1,19 @@
+Easy First:
+
+Array:  14 
+Binary Search:  13
+Strings:  7
+Linked List:  5+4
+Recurrsion: 5
+Bit Manipilation:  8
+Stack and Queues:  8
+Sliding window and Two Pointer combined: 8
+Heaps: 4
+Greedy Algorithms: 5
+Binary Tree: 13
+BST:  3
+Graphs: 6
+______________________________________
+Medium:
+String- 2
+ 
